@@ -60,7 +60,7 @@ I chose to make a career change into Design + Tech!!!
   </div>
   <div>
     <div>
-      <h2>UX/UI Design</h2>
+      <h2>Design</h2>
     </div>
     <div id="stacks" align="center">  
     <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
