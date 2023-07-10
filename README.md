@@ -4,7 +4,7 @@
   
 </div>
 
-<div id="badges" align="center">
+<div id="badges" align="center"> 
   <a href="https://www.linkedin.com/in/junioralmeida/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:junioralmeida.sk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <a href="https://instagram.com/junioralmeidask" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -55,66 +55,56 @@ I chose to make a career change into Design + Tech!!!
 - 🎯 I'm studying to become a Full Stack Developer!
 </div>
 <br>
-<div>
-  <h1 id="sub-title" align="center"> :hammer_and_wrench: Languages and Tools </h1> 
-  </div>
-  <div>
-    <div>
-      <h2>Design</h2>
-    </div>
-    <div id="stacks" align="center">  
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/gimp/gimp-original-wordmark.svg" title="Gimp" alt="Gimp" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" title="Google" alt="Google" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="AdobeXD" alt="AdobeXD" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="aftereffects" alt="aftereffects" width="40" height="40"/>&nbsp;
-   </div> 
-  </div>
-  <div>
-    <div>
-      <h2>WeB Design/Web3 Dev</h2>
-    </div>
-    <div id="stacks" align="center">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  </div>
-  </div>
-  <div>
-    <div>
-      <h2>Mobile Development</h2>
-     </div>
-    <div id="stacks" align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original-wordmark.svg" title="Swift" **alt="Swift" width="60" height="60"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" **alt="XCode" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
-  </div>
-  </div>
- </div>
- <hr></hr>
 
-<div id="thank-you" align="center">
-  <div id="thank-you" align="center"><h1>:thumbsup: Thank You 
-</h1></div>
-  <div>
-  <img src="https://media.giphy.com/media/eiMn6aBwpkSCffKOG0/giphy.gif" width="650" height="100"/>
+<div>
+  <h1 id="sub-title" align="center"> :hammer_and_wrench: Proficient Technologies </h1> 
+  
   </div>
-   <div>
-    <img src="https://media.giphy.com/media/3ornk02pJG7qEh2yis/giphy.gif" width="300" height="300"/>
-    <img src="https://media.giphy.com/media/zoR5gOUIri6lj1nNAU/giphy.gif" width="350" height="300"/>
-  </div>
+
+### Languages
+
+<div align="left">
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141" />
+ </div>
+
+### Front-end
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-414141?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-414141?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React_Router-239?style=for-the-badge&logo=react-router&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-239?style=for-the-badge&logo=redux&logoColor=E44C30"/>
 </div>
 
+### Back-end
+<div>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+### Others
+<div id="stacks" align="left">
+  <img src="https://img.shields.io/badge/GIT-4B275F?style=for-the-badge&logo=git&logoColor=E44C30"/>
+  </div>
+
+<br>
+<div id="stacks" align="center">
+<h1>Github Status</h1>
+
+ <a href="https://www.github.com/junioralmeidask">
+ <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=junioralmeidask&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junioralmeidask&layout=compact&langs_count=16&theme=dark"/>
+</div>
+   
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=junioralmeidask&bg_color=bfd1fd&color=4c689e&line=4c569e&point=343232&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+
+
+<div align="center">
+  <div id="thank-you" align="center"><h1>:thumbsup: Thank You </h1>
+  </div>
+ 
 
